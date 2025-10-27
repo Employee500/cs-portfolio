@@ -1,2 +1,2 @@
 #cs-portfolio
-This repositry will hold my computer science projects and assignments.
+This repository will hold my computer science projects and assignments.
